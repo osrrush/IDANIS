@@ -1,4 +1,4 @@
-En esta página encontrarás material de apoyo para preparación al examen IDANIS, examen ingreso a la secundaria
+En esta página encontrarás material de apoyo para preparación al examen IDANIS, examen ingreso a la secundaria.
 Si no sabes la respuesta de alguna pregunta, dejala en blanco. Cualquier examen lo puedes realizar las veces que quieras.
 
 ## [Examen diagnóstico de aritmética](https://forms.gle/2E4gAtfhxvaG8ZgU8)
