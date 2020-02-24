@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+En esta página encontrarás material de apoyo para preparación al examen IDANIS, examen ingreso a la secundaria
+
+## [Examen diagnóstico de aritmética](https://forms.gle/2E4gAtfhxvaG8ZgU8)
+En este examen encontrarás preguntas de conocimiento básico para el IDANIS.
 
 You can use the [editor on GitHub](https://github.com/osrrush/IDANIS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
