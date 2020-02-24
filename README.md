@@ -3,7 +3,8 @@ En esta página encontrarás material de apoyo para preparación al examen IDANI
 ## [Examen diagnóstico de aritmética](https://forms.gle/2E4gAtfhxvaG8ZgU8)
 En este examen encontrarás preguntas de conocimiento básico para el IDANIS.
 
-
+### Soporte
+Cualquier comentario, duda o problema favor de enviarlo al correo osrrush@gmail.com
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
