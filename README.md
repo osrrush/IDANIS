@@ -5,3 +5,4 @@ En este examen encontrarás preguntas de conocimiento básico para el IDANIS.
 
 ### Soporte
 Cualquier comentario, duda o problema favor de enviarlo al correo osrrush@gmail.com
+Con el asunto IDANIS comentario
