@@ -4,8 +4,11 @@ Si no sabes la respuesta de alguna pregunta, dejala en blanco. Cualquier examen 
 ## [Examen diagnóstico de aritmética](https://forms.gle/2E4gAtfhxvaG8ZgU8)
 En este examen encontrarás preguntas de conocimiento básico para el IDANIS.
 
-## [Examen 1 sobre tiempo](https://forms.gle/8u4guTvxxvCHUdU28)
+## [Examen 1.1 sobre tiempo](https://forms.gle/8u4guTvxxvCHUdU28)
 En este examen encontrarás pregunta sobre horas y minutos.
+
+## [Examen 2.1 sobre tiempo](https://forms.gle/vjpmEUnewNR9kgjB9)
+En este examen encontrarás preguntas sobre días, semanas, meses y años.
 
 ### Soporte
 Cualquier comentario, duda o problema favor de enviarlo al correo osrrush@gmail.com
