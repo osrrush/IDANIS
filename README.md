@@ -5,7 +5,7 @@ Si no sabes la respuesta de alguna pregunta, dejala en blanco. Cualquier examen 
 En este examen encontrarás preguntas de conocimiento básico para el IDANIS.
 
 ## [Examen 1 sobre tiempo](https://forms.gle/8u4guTvxxvCHUdU28)
-En este ecamen encontrarás pregunta sobre horas y minutos.
+En este examen encontrarás pregunta sobre horas y minutos.
 
 ### Soporte
 Cualquier comentario, duda o problema favor de enviarlo al correo osrrush@gmail.com
