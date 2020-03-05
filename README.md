@@ -13,6 +13,9 @@ En este examen encontrarás pregunta sobre horas y minutos.
 ## [Examen 2.1 sobre tiempo](https://forms.gle/vjpmEUnewNR9kgjB9)
 En este examen encontrarás preguntas sobre días, semanas, meses y años.
 
+##[Examen 1.1 conteo de cubos](https://forms.gle/2KznYm9fpK6r2nkc6)
+En este examen encontrarás preguntas sobre conteo de cubos
+
 ### Soporte
 Cualquier comentario, duda o problema favor de enviarlo al correo osrrush@gmail.com
 Con el asunto IDANIS comentario
