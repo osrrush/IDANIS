@@ -14,6 +14,7 @@ En este examen encontrarás pregunta sobre horas y minutos.
 En este examen encontrarás preguntas sobre días, semanas, meses y años.
 
 ## [Examen 1.1 conteo de cubos](https://forms.gle/2KznYm9fpK6r2nkc6)
+## [Examen 1.2 conteo de cubos](https://forms.gle/PJEaPUZ6vobajf1q6)
 En este examen encontrarás preguntas sobre conteo de cubos
 
 ### Soporte
