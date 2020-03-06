@@ -15,7 +15,10 @@ En este examen encontrarás preguntas sobre días, semanas, meses y años.
 
 ## [Examen 1.1 conteo de cubos](https://forms.gle/2KznYm9fpK6r2nkc6)
 ## [Examen 1.2 conteo de cubos](https://forms.gle/PJEaPUZ6vobajf1q6)
-En este examen encontrarás preguntas sobre conteo de cubos
+En estos exámenes encontrarás preguntas sobre conteo de cubos.
+
+## [Examen 2.1 cubos faltantes](https://forms.gle/1hKcTVUthBn9M6tR8)
+En estos exámenes encontrarás preguntas sobre cubos faltantes en figuras.
 
 ### Soporte
 Cualquier comentario, duda o problema favor de enviarlo al correo osrrush@gmail.com
